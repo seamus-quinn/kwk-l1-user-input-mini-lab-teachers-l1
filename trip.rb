@@ -17,4 +17,6 @@ nights = gets.chomp
 
 # Lastly, puts it all back by interpolating these values in a string.
 
-puts "#{stay}#{eat}"
+puts stay
+puts eat
+puts nights
