@@ -11,7 +11,7 @@ stay = gets.chomp.capitalize  #don't forget to Capitilize the input
 
 eat = gets.chomp
 
-nights = gets.chomp.capitalize
+nights = gets.chomp
 
 
 
